@@ -25,16 +25,6 @@ public class Menu extends AppCompatActivity implements View.OnClickListener {
         botonAhorcar.setOnClickListener(this);
     }
 
-    /*public void onClickTicTac(View v){
-        Intent i=new Intent(this,Tic_tac.class);
-        startActivity(i);
-    }
-
-    public void onClickAhorcado(View v){
-        Intent i=new Intent(this,Ahorcado.class);
-        startActivity(i);
-    }*/
-
 
     @Override
     public void onClick(View v) {
